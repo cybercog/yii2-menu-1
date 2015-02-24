@@ -1,0 +1,19 @@
+{
+  "name": "fonclub/yii2-menu",
+  "description": "Menu module for Yii2",
+  "keywords": ["yii2", "yii2-menu", "menu"],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fonclub",
+      "email": "sfonclub@gmail.com",
+      "homepage": "http://fonclub-blog.ru/"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "fonclub\\menu\\": ""
+    }
+  }
+}
